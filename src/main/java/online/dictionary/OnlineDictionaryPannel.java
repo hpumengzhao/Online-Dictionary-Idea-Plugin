@@ -50,7 +50,6 @@ public class OnlineDictionaryPannel extends JPanel {
                 }
 
                 resultLabel.setText("<html>" + result + "</html>");
-
             }
         });
 
